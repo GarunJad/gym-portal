@@ -59,6 +59,5 @@ The GYM Management System has potential for future enhancements, including:
 - Integration of a supplement store with online purchasing options.
 - Inclusion of nutrition advice and personalized training programs for members.
 
-## Links
-- Visit the GYM Portal (https://GarunJad.github.io/gym-portal/)
+
 
